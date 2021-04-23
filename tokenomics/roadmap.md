@@ -1,0 +1,17 @@
+# ROADMAP
+
+### STEP 1
+
+* [x] AIRDROP
+* [ ] FARM - STAKING
+* [ ] LISTING ON 
+  * [ ] BSCSCAN
+  * [ ] DAPPRADAR
+  * [ ] COINMARKETCAP
+  * [ ] COINGECO
+
+### STEP 2
+
+* [ ] LOTTERY
+* [ ] PARTNER WITH PANCAKE, BSC ECOSYSTEM
+
